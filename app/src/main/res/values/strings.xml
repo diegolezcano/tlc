@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Coding Love - Beta 0.1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">By diegolez</string>
+    <string name="search">Search Index</string>
+</resources>
